@@ -1,5 +1,7 @@
 # Starter Web Repo
 
+Editing
+
 This repository is for showing how Git and GitHub work.
 Adding text
 Adding next text
