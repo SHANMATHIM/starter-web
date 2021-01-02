@@ -17,3 +17,7 @@ Deployment
 ## How to Contribute
 
 Contribution
+
+##Copyright
+
+Copyright notice 2020
