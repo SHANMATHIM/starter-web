@@ -16,7 +16,7 @@ Deployment
 
 ## How to Contribute
 
-Contribution
+Contribution training
 
 ##Copyright
 
