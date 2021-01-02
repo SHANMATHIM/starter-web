@@ -22,4 +22,4 @@ Contribution training
 
 ##Copyright
 
-Copyright notice 2020
+Copyright notice 2020.@copyright
